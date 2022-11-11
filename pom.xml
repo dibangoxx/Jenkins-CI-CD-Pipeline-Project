@@ -117,7 +117,7 @@
         </plugin>
 
         <plugin>
-          <artifactId>mvn-jxr-plugin</artifactId>
+          <artifactId>maven-jxr-plugin</artifactId>
           <version>2.3</version>
         </plugin>
 
