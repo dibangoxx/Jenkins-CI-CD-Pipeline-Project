@@ -28,7 +28,7 @@ pipeline {
             sh 'mvn test'
         }
     }
-    stage('Integration Test'){
+    stage('Integration Test1'){
         steps {
           sh 'mvn verify -DskipUnitTests'
         }
@@ -46,9 +46,9 @@ pipeline {
     stage('SonarQube Scan') {
       steps {
         sh """mvn sonar:sonar \
-              -Dsonar.projectKey=JavaWebApp \
-              -Dsonar.host.url=http://172.31.4.143:9000 \
-              -Dsonar.login=e9733df3fcd6ed54cef307d8ac4cc00eeb2d3611"""
+  -Dsonar.projectKey=Maven-project \
+  -Dsonar.host.url=http://54.221.114.178:9000 \
+  -Dsonar.login=449f8cc50aab92ff94b59d060911be20f0842f90"""
       }
     }
     stage('Upload to Artifactory') {
