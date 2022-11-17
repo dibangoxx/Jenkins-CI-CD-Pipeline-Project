@@ -10,7 +10,7 @@
   padding: 80px;
   text-align: center;
   background: #1a38bc;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 /* Increase the font size of the heading */
 .header h1 {
@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
-  <p>This Java Web Application Was Deployed Using CI/CD</p>
+  <h1>Bonjour cher ami(s) !!!</h1>
+  <p>Je vous souhaite la bienvenue chez dibango, Dieu est bon</p>
 </div>
 </body>
 </html>
