@@ -9,8 +9,8 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: #1a38bc;
-  color: #ffffff;
+  background: white;
+  color: yellow;
 }
 /* Increase the font size of the heading */
 .header h1 {
@@ -22,6 +22,7 @@
 <div class="header">
   <h1>Bonjour cher ami(s) !!!</h1>
   <p>Je vous souhaite la bienvenue chez dibango, Dieu est bon</p>
+  <h1>petit a petit l'oiseau fait son net</h1>
 </div>
 </body>
 </html>
