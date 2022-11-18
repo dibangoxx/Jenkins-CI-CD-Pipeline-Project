@@ -9,8 +9,8 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: white;
-  color: yellow;
+  background: yellow;
+  color: whitesmoke;
 }
 /* Increase the font size of the heading */
 .header h1 {
