@@ -56,8 +56,8 @@ pipeline {
             sh """
             mvn sonar:sonar \
   -Dsonar.projectKey=Maven-project \
-  -Dsonar.host.url=http://18.206.209.25:9000 \
-  -Dsonar.login=789a790e26a6675a71cca279777d05d1512b0856
+  -Dsonar.host.url=http://54.82.26.63:9000 \
+  -Dsonar.login=818ba0c207a1985013ccc77b20e591ae1e046144
           
             """
             }
