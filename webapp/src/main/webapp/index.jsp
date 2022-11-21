@@ -23,6 +23,7 @@
   <h1>Bonjour cher ami(s) !!!</h1>
   <p>Je vous souhaite la bienvenue chez dibango, Dieu est bon</p>
   <h1>petit a petit l'oiseau fait son net</h1>
+  <p>Je suis l'enfant de Dieu et Il est toujours avec moi n'import ou</p>
 </div>
 </body>
 </html>
